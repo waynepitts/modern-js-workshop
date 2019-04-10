@@ -41,7 +41,8 @@
     },
     "dependencies": {
         "babel-core": "^7.0.0-bridge.0",
-        "bricks.js": "^1.8.0"
+        "bricks.js": "^1.8.0",
+        "tingle.js": "^0.14.0"
     },
     "lint-staged": {
         "*.{js,jsx,css,md,scss}": [
